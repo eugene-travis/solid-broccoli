@@ -9,3 +9,5 @@ cache:
   directories:
   - ~/.npm
   - ~/.cache
+
+script: echo test
