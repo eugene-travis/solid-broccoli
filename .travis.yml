@@ -5,9 +5,6 @@ node_js:
   
 group: legacy-gce
 
-cache:
-  directories:
-  - ~/.npm
-  - ~/.cache
+cache: npm
 
 script: echo test
